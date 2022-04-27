@@ -36,7 +36,7 @@ var asim = [[],["/2017/05/asimtot-kurva-soal-dan-pembahasan.html"],["/2020/10/ho
 var atupen = [["/2022/04/exercise-zone-aturan-pencacahan.html"],[],[]];
 
 //balok
-var balok = [["/2022/04/exercise-zone-balok.html"],["/2019/09/balok-soal-dan-pembahasan.html"],[]];
+var balok = [["/2022/04/exercise-zone-balok.html"],["/2022/04/sbmptn-zone-balok.html"],[]];
 
 //barisan dan deret
 var barder = [["/2021/01/exercise-zone-barisan-dan-deret.html"],["/2020/10/sbmptn-zone-barisan-dan-deret.html"],["/2019/02/barisan-dan-deret-soal-dan-pembahasan.html"]];
