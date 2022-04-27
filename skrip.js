@@ -42,7 +42,7 @@ var balok = [["/2022/04/exercise-zone-balok.html"],["/2019/09/balok-soal-dan-pem
 var barder = [["/2021/01/exercise-zone-barisan-dan-deret.html"],["/2020/10/sbmptn-zone-barisan-dan-deret.html"],["/2019/02/barisan-dan-deret-soal-dan-pembahasan.html"]];
 
 //barisan dan deret aritmetika
-var BarDerArit = [["/2022/04/exercise-zone-barisan-dan-deret.html","/2022/04/exercise-zone-barisan-dan-deret_27.html","/2022/04/exercise-zone-barisan-dan-deret_2.html","/2018/03/barisan-dan-deret-aritmetika-soal-dan.html"],["/2020/08/sbmptn-zone-barisan-dan-deret-aritmetika.html"],["/2020/08/olimpiade-zone-barisan-dan-deret.html"]];
+var BarDerArit = [["/2022/04/exercise-zone-barisan-dan-deret.html","/2022/04/exercise-zone-barisan-dan-deret_27.html","/2022/04/exercise-zone-barisan-dan-deret_2.html","/2022/04/exercise-zone-barisan-dan-deret_90.html"],["/2020/08/sbmptn-zone-barisan-dan-deret-aritmetika.html"],["/2020/08/olimpiade-zone-barisan-dan-deret.html"]];
 
 //barisan dan deret geometri
 var bardergeo = [["/2018/09/barisan-dan-deret-geometri-soal-dan.html","/2022/03/exercise-zone-barisan-dan-deret-geometri.html"],["/2020/10/sbmptn-zone-barisan-dan-deret-geometri.html"],[]];
