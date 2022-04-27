@@ -33,10 +33,10 @@ var alj = [["/2020/03/exercise-zone-aljabar.html"],["/2020/10/sbmptn-zone-aljaba
 var asim = [[],["/2017/05/asimtot-kurva-soal-dan-pembahasan.html"],["/2020/10/hots-zone-asimtot-kurva.html"]];
 
 //Aturan Pencacahan
-var atupen = [["/2021/01/exercise-zone-aturan-pencacahan.html"],[],[]];
+var atupen = [["/2022/04/exercise-zone-aturan-pencacahan.html"],[],[]];
 
 //balok
-var balok = [["/2020/09/exercise-zone-balok.html"],["/2019/09/balok-soal-dan-pembahasan.html"],[]];
+var balok = [["/2022/04/exercise-zone-balok.html"],["/2019/09/balok-soal-dan-pembahasan.html"],[]];
 
 //barisan dan deret
 var barder = [["/2021/01/exercise-zone-barisan-dan-deret.html"],["/2020/10/sbmptn-zone-barisan-dan-deret.html"],["/2019/02/barisan-dan-deret-soal-dan-pembahasan.html"]];
@@ -48,7 +48,7 @@ var BarDerArit = [["/2020/08/exercise-zone-barisan-dan-deret.html","/2020/08/exe
 var bardergeo = [["/2018/09/barisan-dan-deret-geometri-soal-dan.html","/2022/03/exercise-zone-barisan-dan-deret-geometri.html"],["/2020/10/sbmptn-zone-barisan-dan-deret-geometri.html"],[]];
 
 //bangun ruang sisi lengkung
-var barusile = [["/2018/03/bangun-ruang-sisi-lengkung-soal-dan.html"],[],[]];
+var barusile = [["/2022/04/bangun-ruang-sisi-lengkung-soal-dan.html"],[],[]];
 
 //basis bilangan
 var babil = [["/2020/08/exercise-zone-basis-bilangan.html"],[],["/2022/03/hots-zone-basis-bilangan.html"]];
