@@ -60,7 +60,7 @@ var bilas = [[],[],["/2020/09/hots-zone-bilangan-asli.html"]];
 var bilbul = [["/2022/03/exercise-zone-bilangan-bulat.html"],[],["/2017/07/bilangan-bulat-soal-dan-pembahasan.html"]];
 
 //bilangan pecahan
-var bilpec = [["/2018/02/bilangan-pecahan-soal-dan-pembahasan.html"],[],["/2021/04/hots-zone-bilangan-pecahan.html"]];
+var bilpec = [["/2022/04/exercise-zone-bilangan-pecahan.html"],[],["/2022/04/hots-zone-bilangan-pecahan.html"]];
 
 //bilangan prima
 var bilpri = [[],[],["/2018/09/bilangan-prima-soal-dan-pembahasan.html"]];
