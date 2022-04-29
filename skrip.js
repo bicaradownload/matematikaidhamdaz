@@ -45,7 +45,7 @@ var barder = [["/2021/01/exercise-zone-barisan-dan-deret.html"],["/2020/10/sbmpt
 var BarDerArit = [["/2022/04/exercise-zone-barisan-dan-deret.html","/2022/04/exercise-zone-barisan-dan-deret_27.html","/2022/04/exercise-zone-barisan-dan-deret_2.html","/2022/04/exercise-zone-barisan-dan-deret_90.html"],["/2022/04/sbmptn-zone-barisan-dan-deret-aritmetika.html"],["/2022/04/hots-zone-barisan-dan-deret-aritmetika.html"]];
 
 //barisan dan deret geometri
-var bardergeo = [["/2018/09/barisan-dan-deret-geometri-soal-dan.html","/2022/03/exercise-zone-barisan-dan-deret-geometri.html"],["/2020/10/sbmptn-zone-barisan-dan-deret-geometri.html"],[]];
+var bardergeo = [["/2022/04/exercise-zone-barisan-dan-deret-geometri.html","/2022/04/exercise-zone-barisan-dan-deret_28.html"],["/2022/04/sbmptn-zone-barisan-dan-deret-geometri.html"],[]];
 
 //bangun ruang sisi lengkung
 var barusile = [["/2022/04/exercise-zone-bangun-ruang-sisi-lengkung.html"],[],[]];
