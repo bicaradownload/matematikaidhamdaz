@@ -302,4 +302,16 @@ document.addEventListener('DOMContentLoaded', function () {
             listmatematika[i].setAttribute('id','');
         }
     }
+    let listmatematikad = document.getElementsByTagName("z");
+    if(listmatematikad.length>0){
+      for(let i=0;i<listmatematikad.length;i++){
+         listmatematikad[i].setAttribute('id','rendermtkd');
+          let tempatmtkd = document.getElementById('rendermtkd');
+          katex.render(tempatmtkd.innerHTML, tempatmtkd, {
+            displayMode: true,
+              throwOnError: false
+          });
+          listmatematikad[i].setAttribute('id','');
+      }
+  }
 }, false);
