@@ -24,7 +24,7 @@ function isinomor(awal){
 var idtipe=["standar","sbmptn","hots"];
 
 //bentuk akar
-var akar = [["/2020/03/exercise-zone-bentuk-akar.html"],["/2020/03/sbmptn-zone-bentuk-akar.html"],["/2020/03/olimpiade-zone-bentuk-akar.html"]];
+var akar = [["/2022/04/exercise-zone-bentuk-akar.html","/2022/04/exercise-zone-bentuk-akar-2.html"],["/2022/04/sbmptn-zone-bentuk-akar.html"],["/2022/04/hots-zone-bentuk-akar.html"]];
 
 //aljabar
 var alj = [["/2020/03/exercise-zone-aljabar.html"],["/2020/10/sbmptn-zone-aljabar.html"],["/2020/03/olimpiade-zone-aljabar.html","/2020/03/olimpiade-zone-aljabar-2.html"]];
