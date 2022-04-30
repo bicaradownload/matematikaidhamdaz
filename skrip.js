@@ -39,7 +39,7 @@ var atupen = [["/2022/04/exercise-zone-aturan-pencacahan.html"],[],[]];
 var balok = [["/2022/04/exercise-zone-balok.html"],["/2022/04/sbmptn-zone-balok.html"],[]];
 
 //barisan dan deret
-var barder = [["/2021/01/exercise-zone-barisan-dan-deret.html"],["/2020/10/sbmptn-zone-barisan-dan-deret.html"],["/2019/02/barisan-dan-deret-soal-dan-pembahasan.html"]];
+var barder = [["/2022/04/exercise-zone-barisan-dan-deret_29.html"],["/2022/04/sbmptn-zone-barisan-dan-deret.html"],["/2022/04/hots-zone-barisan-dan-deret.html"]];
 
 //barisan dan deret aritmetika
 var BarDerArit = [["/2022/04/exercise-zone-barisan-dan-deret.html","/2022/04/exercise-zone-barisan-dan-deret_27.html","/2022/04/exercise-zone-barisan-dan-deret_2.html","/2022/04/exercise-zone-barisan-dan-deret_90.html"],["/2022/04/sbmptn-zone-barisan-dan-deret-aritmetika.html"],["/2022/04/hots-zone-barisan-dan-deret-aritmetika.html"]];
