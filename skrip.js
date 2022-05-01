@@ -66,7 +66,7 @@ var bilpec = [["/2022/04/exercise-zone-bilangan-pecahan.html"],[],["/2022/04/hot
 var bilpri = [[],[],["/2018/09/bilangan-prima-soal-dan-pembahasan.html"]];
 
 //deret geometri tak hingga
-var dergeotahi = [["/2019/02/deret-geometri-tak-hingga-soal-dan.html"],["/2021/01/sbmptn-zone-deret-geometri-tak-hingga.html"],[]];
+var dergeotahi = [["/2022/04/exercise-zone-deret-geometri-tak-hingga.html"],["/2022/04/sbmptn-zone-deret-geometri-tak-hingga.html"],[]];
 
 //deret teleskopik
 var dertel = [[],[],["/2018/10/deret-teleskopik-soal-dan-pembahasan.html"]];
