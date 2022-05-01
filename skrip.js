@@ -57,7 +57,7 @@ var babil = [["/2020/08/exercise-zone-basis-bilangan.html"],[],["/2022/03/hots-z
 var bilas = [[],[],["/2020/09/hots-zone-bilangan-asli.html"]];
 
 //bilangan bulat
-var bilbul = [["/2022/03/exercise-zone-bilangan-bulat.html"],[],["/2017/07/bilangan-bulat-soal-dan-pembahasan.html"]];
+var bilbul = [["/2022/04/exercise-zone-bilangan-bulat.html"],[],["/2022/04/hots-zone-bilangan-bulat.html"]];
 
 //bilangan pecahan
 var bilpec = [["/2022/04/exercise-zone-bilangan-pecahan.html"],[],["/2022/04/hots-zone-bilangan-pecahan.html"]];
