@@ -81,7 +81,7 @@ var deter = [["/2022/05/exercise-zone-determinan-matriks.html"],[],[]];
 var diagling = [["/2022/05/exercise-zone-diagram-lingkaran.html"],[],[]];
 
 //dilatasi
-var dilat = [["/2020/09/exercise-zone-dilatasi.html"],[],[]];
+var dilat = [["/2022/05/exercise-zone-dilatasi.html"],[],[]];
 
 //faktorial
 var fakt = [["/2018/01/faktorial-soal-dan-pembahasan.html"],[],["/2021/01/hots-zone-faktorial.html"]];
