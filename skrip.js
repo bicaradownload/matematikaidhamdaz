@@ -71,6 +71,9 @@ var dergeotahi = [["/2022/04/exercise-zone-deret-geometri-tak-hingga.html"],["/2
 //deret teleskopik
 var dertel = [[],[],["/2018/10/deret-teleskopik-soal-dan-pembahasan.html"]];
 
+//desil
+var desil = [["/2022/05/exercise-zone-desil.html"],[],[]];
+
 //determinan matriks
 var deter = [["/2021/11/exercise-zone-determinan-matriks.html"],[],[]];
 
