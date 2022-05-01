@@ -77,6 +77,9 @@ var desil = [["/2022/05/exercise-zone-desil.html"],[],[]];
 //determinan matriks
 var deter = [["/2022/05/exercise-zone-determinan-matriks.html"],[],[]];
 
+//diagram lingkaran 
+var diagling = [["/2022/05/exercise-zone-diagram-lingkaran.html"],[],[]];
+
 //dilatasi
 var dilat = [["/2020/09/exercise-zone-dilatasi.html"],[],[]];
 
