@@ -75,7 +75,7 @@ var dertel = [[],[],["/2018/10/deret-teleskopik-soal-dan-pembahasan.html"]];
 var desil = [["/2022/05/exercise-zone-desil.html"],[],[]];
 
 //determinan matriks
-var deter = [["/2021/11/exercise-zone-determinan-matriks.html"],[],[]];
+var deter = [["/2022/05/exercise-zone-determinan-matriks.html"],[],[]];
 
 //dilatasi
 var dilat = [["/2020/09/exercise-zone-dilatasi.html"],[],[]];
