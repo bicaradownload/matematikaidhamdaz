@@ -87,7 +87,7 @@ var dilat = [["/2022/05/exercise-zone-dilatasi.html"],[],[]];
 var fakt = [["/2018/01/faktorial-soal-dan-pembahasan.html"],[],["/2021/01/hots-zone-faktorial.html"]];
 
 //frekuensi harapan
-var frekhar = [["/2020/08/exercise-zone-frekuensi-harapan.html"],[],["/2021/01/hots-zone-frekuensi-harapan.html"]];
+var frekhar = [["/2022/05/exercise-zone-frekuensi-harapan.html"],[],["/2022/05/hots-zone-frekuensi-harapan.html"]];
 
 //fungsi
 var fung = [["/2020/03/exercise-zone-fungsi.html","/2020/11/exercise-zone-fungsi-2.html"],["/2018/10/fungsi-soal-dan-pembahasan.html","/2019/03/fungsi-2-soal-dan-pembahasan.html"],["/2020/09/hots-zone-fungsi.html"]];
