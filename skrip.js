@@ -281,7 +281,7 @@ var turfungtri = [["/2020/08/exercise-zone-turunan-fungsi.html","/2020/09/exerci
 var turu = [["/2020/03/exercise-zone-turunan-derivative.html","/2020/10/exercise-zone-turunan-derivative-2.html"],["/2020/03/sbmptn-zone-turunan-derivative.html"],["/2020/10/hots-zone-turunan.html"]];
 
 //vektor
-var vek = [["/2018/03/vektor-soal-dan-pembahasan.html"],["/2020/09/sbmptn-zone-vektor.html"],["/2020/10/hots-zone-vektor.html"]];
+var vek = [["/2022/05/exercise-zone-vektor.html"],["/2022/05/sbmptn-zone-vektor.html"],["/2022/05/hots-zone-vektor.html"]];
 
 //volume benda putar
 var volbp = [["/2018/09/volume-benda-putar-soal-dan-pembahasan.html"],[],[]]
