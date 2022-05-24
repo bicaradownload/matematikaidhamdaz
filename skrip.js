@@ -42,7 +42,7 @@ var balok = [["/2022/04/exercise-zone-balok.html"],["/2022/04/sbmptn-zone-balok.
 var barder = [["/2022/04/exercise-zone-barisan-dan-deret_29.html"],["/2022/04/sbmptn-zone-barisan-dan-deret.html"],["/2022/04/hots-zone-barisan-dan-deret.html"]];
 
 //barisan dan deret aritmetika
-var BarDerArit = [["/2022/04/exercise-zone-barisan-dan-deret.html","/2022/04/exercise-zone-barisan-dan-deret_27.html","/2022/04/exercise-zone-barisan-dan-deret_2.html","/2022/04/exercise-zone-barisan-dan-deret_90.html"],["/2022/04/sbmptn-zone-barisan-dan-deret-aritmetika.html"],["/2022/04/hots-zone-barisan-dan-deret-aritmetika.html"]];
+var BarDerArit = [["/2022/04/exercise-zone-barisan-dan-deret.html","/2022/04/exercise-zone-barisan-dan-deret_27.html","/2022/04/exercise-zone-barisan-dan-deret_2.html","/2022/04/exercise-zone-barisan-dan-deret_90.html","/2022/05/exercise-zone-barisan-dan-deret.html"],["/2022/04/sbmptn-zone-barisan-dan-deret-aritmetika.html"],["/2022/04/hots-zone-barisan-dan-deret-aritmetika.html"]];
 
 //barisan dan deret geometri
 var bardergeo = [["/2022/04/exercise-zone-barisan-dan-deret-geometri.html","/2022/04/exercise-zone-barisan-dan-deret_28.html"],["/2022/04/sbmptn-zone-barisan-dan-deret-geometri.html"],[]];
@@ -155,8 +155,11 @@ var limit = [["/2020/02/exercise-zone-limit.html","/2020/02/exercise-zone-limit-
 //limit tak hingga
 var limtahi = [["/2020/09/exercise-zone-limit-tak-hingga.html"],["/2019/09/limit-tak-hingga-2-soal-dan-pembahasan.html"],["/2018/04/limit-tak-hingga-soal-dan-pembahasan.html"]];
 
+//limit trigonometri 
+var limtri = [["",""],["",""],[""]];
+
 //lingkaran
-var ling = [["/2021/01/exercise-zone-lingkaran.html"],["/2020/09/sbmptn-zone-lingkaran.html"],["/2020/09/hots-zone-lingkaran.html"]];
+var lingk = [["/2021/01/exercise-zone-lingkaran.html"],["/2020/09/sbmptn-zone-lingkaran.html"],["/2020/09/hots-zone-lingkaran.html"]];
 
 //logaritma
 var loga = [["/2019/12/exercise-zone-logaritma.html","/2020/02/exercise-zone-logaritma-2.html","/2020/08/exercise-zone-logaritma-3.html"],["/2020/02/sbmptn-zone-logaritma.html"],["/2020/10/hots-zone-logaritma.html"]];
@@ -168,7 +171,7 @@ var logi = [["/2020/09/exercise%20zone%20logika%20matematika.html"],[],[]];
 var luda = [["/2019/02/luas-daerah-di-bawah-kurva-soal-dan.html"],["/2020/10/sbmptn-zone-luas-daerah-di-bawah-kurva.html"],[]];
 
 //matriks
-var matr = [["/2020/09/exercise-zone-matriks.html","/2020/09/exercise-zone-matriks-2.html","/2020/10/exercise-zone-matriks-3.html","/2017/11/matriks-soal-dan-pembahasan.html","/2021/09/exercise-zone-matriks-5.html","/2021/09/exercise-zone-matriks-6.html"],["/2020/09/sbmptn-zone-matriks.html"],[]];
+var matr = [["/2020/09/exercise-zone-matriks.html","/2020/09/exercise-zone-matriks-2.html","/2020/10/exercise-zone-matriks-3.html","/2017/11/matriks-soal-dan-pembahasan.html","/2021/09/exercise-zone-matriks-5.html","/2022/05/exercise-zone-matriks-6.html"],["/2020/09/sbmptn-zone-matriks.html"],[]];
 
 //makimum dan minimum
 var maksmin = [["/2020/09/exercise-zone-maksimum-dan-minimum.html"],["/2020/09/sbmptn-zone-maksimum-dan-minimum.html"],["/2020/09/hots-zone-maksimum-dan-minimum.html"]];
@@ -202,6 +205,9 @@ var persamaan = [["/2020/10/exercise-zone-persamaan.html"],[],["/2020/10/hots-zo
 
 //persamaan bentuk akar
 var persbenak = [["/2021/05/exercise-zone-persamaan-bentuk-akar.html"],[],["/2018/11/persamaan-bentuk-akar-soal-dan.html"]];
+
+//persamaan diferensial
+var persdif = [[""],[],[]];
 
 //persegi
 var persegi = [[],[],["/2017/12/persegi-soal-dan-pembahasan.html"]];
@@ -243,7 +249,7 @@ var PtLSV = [["/2020/10/exercise-zone-pertidaksamaan-linear.html"],[],[]];
 var PtNMSV = [["/2020/03/exercise-zone-pertidaksamaan-nilai.html","/2020/09/exercise-zone-pertidaksamaan-nilai.html"],["/2020/03/sbmptn-zone-pertidaksamaan-nilai-mutlak.html"],[]];
 
 //refleksi
-var refl = [["/2020/08/exercise-zone-refleksi-pencerminan.html"],["/2020/09/sbmptn-zone-refleksi-pencerminan.html"],[]];
+var refl = [["/2020/08/exercise-zone-refleksi-pencerminan.html","/2022/05/exercise-zone-refleksi-pencerminan-2.html"],["/2020/09/sbmptn-zone-refleksi-pencerminan.html"],[]];
 
 //rotasi
 var rot = [["/2020/10/exercise-zone-rotasi.html"],[],[]];
