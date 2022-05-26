@@ -274,11 +274,12 @@ var tabu = [[""],[],[]];
 
 //translasi
 var tran = [["/2020/09/exercise-zone-translasi.html"],[],[]];
+
 //transformasi geometri
 var trangeo = [["/2020/08/exercise-zone-transformasi-geometri.html"],["/2017/11/transformasi-geometri-soal-dan.html"],[]];
 
 //trigonometri
-var trig = [["/2020/03/exercise-zone-trigonometri.html"],["/2017/05/trigonometri-soal-dan-pembahasan.html"],["/2020/09/hots-zone-trigonometri.html"]];
+var trig = [["/2020/03/exercise-zone-trigonometri.html","/2022/05/exercise-zone-trigonometri-2.html"],["/2017/05/trigonometri-soal-dan-pembahasan.html"],["/2020/09/hots-zone-trigonometri.html"]];
 
 //turunan fungsi trigonometri
 var turfungtri = [["/2020/08/exercise-zone-turunan-fungsi.html","/2020/09/exercise-zone-turunan-fungsi.html"],["/2020/08/sbmptn-zone-turunan-fungsi-trigonometri.html"],[]];
