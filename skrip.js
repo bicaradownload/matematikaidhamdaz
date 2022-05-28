@@ -162,7 +162,7 @@ var limtri = [["",""],["",""],[""]];
 var lingk = [["/2021/01/exercise-zone-lingkaran.html"],["/2020/09/sbmptn-zone-lingkaran.html"],["/2020/09/hots-zone-lingkaran.html"]];
 
 //logaritma
-var loga = [["/2019/12/exercise-zone-logaritma.html","/2020/02/exercise-zone-logaritma-2.html","/2020/08/exercise-zone-logaritma-3.html"],["/2020/02/sbmptn-zone-logaritma.html"],["/2020/10/hots-zone-logaritma.html"]];
+var loga = [["/2019/12/exercise-zone-logaritma.html","/2020/02/exercise-zone-logaritma-2.html","/2022/05/exercise-zone-logaritma-3.html","/2022/05/exercise-zone-logaritma-4.html"],["/2020/02/sbmptn-zone-logaritma.html"],["/2020/10/hots-zone-logaritma.html"]];
 
 //logika matematika
 var logi = [["/2020/09/exercise%20zone%20logika%20matematika.html"],[],[]];
