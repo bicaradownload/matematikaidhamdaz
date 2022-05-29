@@ -307,6 +307,13 @@ function soal(materi, tipesoal, halaman)  {
          }
       }
       isinomor((halaman - 1) * 10 + 1);
+   document.addEventListener('DOMContentLoaded', function () {
+         let pergike = queryString;
+         if(pergike!=""){
+            let unsur = document.getElementById(pergike);
+            unsur.scrollIntoView({behavior: "smooth",block:"center"})
+         }
+      },false)
    }
 
 document.addEventListener('DOMContentLoaded', function () {
