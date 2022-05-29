@@ -1,18 +1,3 @@
-MathJax={
-    loader: {load: ['[tex]/color','[tex]/cancel','[tex]/enclose']},
-    tex: {
-       inlineMath: [['$', '$'], ['\\(', '\\)']],
-       packages: {'[+]': ['color','cancel','enclose']},
-       macros: {
-          degree: "{^\\circ}",
-          dmn: "\\ \\middle\\vert\\ "
-       }
-    },
-    options:{
-       skipHtmlTags: ["script","noscript","style","textarea","pre","code"]
-    }
-};
-
 function isinomor(awal){
    let soalke = document.getElementsByClassName("nomor");
    for(let i=0;i<soalke.length;i++){
@@ -136,6 +121,9 @@ var keseb = [["/2021/01/exercise-zone-kesebangunan.html"],[],[]];
 
 //kesebangunan pada segitiga
 var kesebseg = [["/2021/02/exercise-zone-kesebangunan-pada-segitiga.html"],[],[]];
+
+//koordinat kutub
+var koorku = [["/2022/05/exercise-zone-koordinat-kutub.html"],[],[]];
 
 //kuartil
 var kuar = [[""],[],[]];
