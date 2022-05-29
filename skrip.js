@@ -284,6 +284,9 @@ var trangeo = [["/2020/08/exercise-zone-transformasi-geometri.html"],["/2017/11/
 //trigonometri
 var trig = [["/2020/03/exercise-zone-trigonometri.html","/2022/05/exercise-zone-trigonometri-2.html"],["/2017/05/trigonometri-soal-dan-pembahasan.html"],["/2020/09/hots-zone-trigonometri.html"]];
 
+//trigonometri pada segitiga
+var trigpas = [["/2022/05/exercise-zone-trigonometri-pada-segitiga.html"],[],[]];
+
 //turunan fungsi trigonometri
 var turfungtri = [["/2020/08/exercise-zone-turunan-fungsi.html","/2020/09/exercise-zone-turunan-fungsi.html"],["/2020/08/sbmptn-zone-turunan-fungsi-trigonometri.html"],[]];
 
