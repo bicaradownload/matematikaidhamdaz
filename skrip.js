@@ -263,6 +263,9 @@ var segsik = [["/2017/06/segitiga-soal-dan-pembahasan.html"],[],[]];
 //sistem persamaan
 var sisper = [["/2020/08/exercise-zone-sistem-persamaan.html"],["/2020/09/sbmptn-zone-sistem-persamaan.html"],["/2020/09/hots-zone-sistem-persamaan.html"]];
 
+//Sistem persamaan linear dua variabel
+var spldv = [["/2022/05/exercise-zone-sistem-persamaan-linear.html"],[],[]];
+
 //sistem pertidaksamaan linear dua variabel
 var SPtLDV = [["/2020/09/exercise-zone-sistem-pertidaksamaan.html"],[],[]];
 
