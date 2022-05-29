@@ -307,9 +307,11 @@ function soal(materi, tipesoal, halaman)  {
          }
       }
       isinomor((halaman - 1) * 10 + 1);
-   document.addEventListener('DOMContentLoaded', function () {
-         let pergike = queryString;
-         if(pergike!=""){
+document.addEventListener('DOMContentLoaded', function () {
+         let kueristring = window.location.search;
+         if(kueristring!=""){
+            let params = new URLSearchParams(kueristring);
+let pergike = parseInt(params.get("id"));
             let unsur = document.getElementById(pergike);
             unsur.scrollIntoView({behavior: "smooth",block:"center"})
          }
